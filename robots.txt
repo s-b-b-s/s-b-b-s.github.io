@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://sbbs.me/sitemap.xml
+Host: https://sbbs.me
